@@ -53,7 +53,7 @@ const projects = [
     description: "Simple and effective grocery delivery app interface",
     image:
       "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Grocery%20App.JPG-1spe3HYs3WHMQYSWwOw0pd1owMJR64.jpeg",
-    link: "#",
+    link: "https://www.figma.com/proto/USjzbAXwD2MYF3zMIF57kW/Grocery-Delivery-App?node-id=1-6321&starting-point-node-id=1%3A6303&t=abHfjqGSdDmTDGw0-1",
   },
 ]
 
