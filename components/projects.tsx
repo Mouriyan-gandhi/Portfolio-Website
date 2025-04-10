@@ -69,7 +69,7 @@ const projects = [
       "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202025-04-07%20at%207.02.54%20AM%20%281%29-67ZSfo87hXWYBkZxjU43DQJmfyGfD2.jpeg",
     ],
     category: "Mobile App",
-    link: "#",
+    link: "https://www.figma.com/proto/E2hG6w8UvIHeYaWmLV51Ig/E-Coomerce-Home-Screen-App-Task?node-id=12-75&starting-point-node-id=5%3A2&t=5gyxquIDDyub8xJN-1",
   },
   {
     id: 7,
@@ -78,7 +78,7 @@ const projects = [
     image:
       "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Fashion%20ecommerce.JPG-0bA9NW8bz71BGh8UnlB9ebzMgl147i.jpeg",
     category: "Web Design",
-    link: "#",
+    link: "https://www.figma.com/proto/BY32OhBwaiKViMRK9EQpSz/Fashion-e-commerce-website?node-id=1-2&t=15GZnSw9GRMVfLm8-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=36%3A136",
   },
   {
     id: 8,
@@ -87,7 +87,7 @@ const projects = [
     image:
       "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Grocery%20App.JPG-tyRQoFTT4cSyXvDXUpIEOqtz6ta4sT.jpeg",
     category: "Mobile App",
-    link: "#",
+    link: "https://www.figma.com/proto/USjzbAXwD2MYF3zMIF57kW/Grocery-Delivery-App?node-id=1-6321&starting-point-node-id=1%3A6303&t=abHfjqGSdDmTDGw0-1",
   },
 ]
 
