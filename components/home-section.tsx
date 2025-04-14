@@ -30,19 +30,19 @@ export default function HomeSection() {
         {/* Navigation */}
         <nav className="flex justify-center mb-16">
           <div className="backdrop-blur-md bg-white/10 rounded-full px-6 py-3 flex space-x-8">
-            <Link href="#" className="text-white/90 hover:text-white">
+            <Link href="#home" className="text-white/90 hover:text-white">
               Home
             </Link>
             <Link href="#projects" className="text-white/90 hover:text-white">
               Projects
             </Link>
-            <Link href="#" className="text-white/90 hover:text-white">
+            <Link href="#testimonials" className="text-white/90 hover:text-white">
               Testimonials
             </Link>
-            <Link href="#" className="text-white/90 hover:text-white">
+            <Link href="#casestudy" className="text-white/90 hover:text-white">
               Case Study
             </Link>
-            <Link href="#" className="text-white/90 hover:text-white">
+            <Link href="#aboutme" className="text-white/90 hover:text-white">
               About me
             </Link>
           </div>
