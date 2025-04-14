@@ -159,7 +159,7 @@ export default function Header() {
 
               <Button asChild size="sm" className="mt-4 w-full">
                 <a
-                  href="https://drive.google.com/file/d/1YTRcZfB0U9VW7kX2ZtSSbU4dmY8yENog/view?usp=sharing"
+                  href="https://drive.google.com/file/d/1YTRcZfB0U9VW7kX2ZtSSbU4dmY8yENog/view"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
