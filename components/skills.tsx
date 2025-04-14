@@ -9,7 +9,7 @@ export default function Skills() {
     { name: "Canva", icon: <Palette className="h-6 w-6" /> },
     { name: "Adobe XD", icon: <Brush className="h-6 w-6" /> },
     { name: "Photoshop", icon: <Palette className="h-6 w-6" /> },
-    { name: "InDesign", icon: <Palette className="h-6 w-6" /> },
+    { name: "Bootstrap", icon: <Rocket className="h-6 w-6" /> },
     { name: "HTML", icon: <Code className="h-6 w-6" /> },
     { name: "CSS", icon: <Code className="h-6 w-6" /> },
     { name: "MS Excel", icon: <FileSpreadsheet className="h-6 w-6" /> },
