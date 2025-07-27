@@ -128,12 +128,26 @@ export default function About() {
               </h4>
 
               <div className="space-y-6">
+
+                <div>
+                <div className="flex justify-between mb-1">
+                  <h5 className="font-semibold">UI/UX Designer</h5>
+                  <span className="text-sm text-foreground/70">May 2025 – Present</span>
+                  </div>
+                  <p className="text-primary mb-1">Maxtra Technologies</p>
+                  <p className="text-sm text-foreground/70">
+                   Responsible for designing intuitive and user-centric web and mobile interfaces that prioritize usability and aesthetics.
+                   Collaborate closely with cross-functional teams—including developers, product managers, and marketing specialists—to 
+                   ensure cohesive and seamless digital experiences that align with user needs and business goals.
+                 </p>
+                </div>
+                
                 <div>
                   <div className="flex justify-between mb-1">
                     <h5 className="font-semibold">UI/UX Designer</h5>
-                    <span className="text-sm text-foreground/70">Present</span>
+                    <span className="text-sm text-foreground/70">Nov 2024 - Apr 2025</span>
                   </div>
-                  <p className="text-primary mb-1">Sabziwala</p>
+                  <p className="text-primary mb-1">Vegetablez</p>
                   <p className="text-sm text-foreground/70">
                     Led the end-to-end UI/UX design process for the application, ensuring an intuitive and seamless user
                     experience. Created interactive prototypes and user flows to enhance design communication and
