@@ -10,92 +10,143 @@ import { ExternalLink, ArrowRight, ChevronLeft, ChevronRight } from "lucide-reac
 const projects = [
   {
     id: 1,
-    title: "Movie Ticket App",
-    description: "A neon-themed movie ticket booking app with seat selection and mobile tickets",
+    title: "IIITM Gwalior Website 1",
+    description: "Institutional website design for IIITM Gwalior with academic focus",
     images: [
-      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202025-04-07%20at%206.53.08%20AM-8DboY72GCvUp8S4bzcDLRMneUs3oV7.jpeg",
-      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202025-04-07%20at%206.53.07%20AM-ZXGhYbsM9xbnV0A83xZUY8o68MZClH.jpeg",
-      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202025-04-07%20at%206.53.06%20AM-7OcFsP4UTgBPpCPrzjPB30K6mjpRMK.jpeg",
+      "/iiitm-1a.png",
+      "/iiitm-1b.png",
+      "/iiitm-1c.png",
     ],
-    category: "Mobile App",
-    link: "https://www.figma.com/proto/PJevYUAhmPNUF1SrsE1TOO/Neon-UI-Design-from-scratch?node-id=3-2&starting-point-node-id=3%3A2&t=LVilUTgu88pXqxmu-1",
+    category: "Web Design",
+    link: "https://www.figma.com/design/n7WH5iBFTibTa8UkVKHIzY/IIITM-Gwalior?m=auto&t=L9APd648Sj6H9mkJ-1",
   },
   {
     id: 2,
-    title: "Neon UI Design",
-    description: "Virtual reality movie watching experience with neon aesthetics",
+    title: "IIITM Gwalior Website 2",
+    description: "Alternative institutional website concept for IIITM Gwalior",
     images: [
-      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202025-04-07%20at%206.48.28%20AM%20%281%29-5goYIM37BSKJkexfbUCoNhFo8B4AOH.jpeg",
-      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202025-04-07%20at%206.48.28%20AM-7mELXHsSdIAMM2kfEQDmwLuBkOpFS0.jpeg",
-      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202025-04-07%20at%206.48.29%20AM%20%281%29-qNOEekzBc8AZ4unbjpJJuDh8jPfBzX.jpeg",
+      "/iiitm-2a.png",
+      "/iiitm-2b.png",
+      "/iiitm-2c.png",
     ],
-    category: "Mobile App",
-    link: "https://www.figma.com/proto/PJevYUAhmPNUF1SrsE1TOO/Neon-UI-Design-from-scratch?node-id=3-2&starting-point-node-id=3%3A2&t=LVilUTgu88pXqxmu-1",
+    category: "Web Design",
+    link: "https://www.figma.com/design/1J0Z90h8ogvGlSHf7yTQXh/IIITM-Gwalior-2?m=auto&t=L9APd648Sj6H9mkJ-1",
   },
   {
     id: 3,
-    title: "Smart Home App",
-    description: "Control your home devices with this intuitive smart home interface",
+    title: "IIITM Gwalior Website 3",
+    description: "Modernized web presence concept for IIITM Gwalior government project",
     images: [
-      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202025-04-07%20at%206.54.31%20AM-P7wAYZDhvrCKiyOEkgLI7p2Nvs9sH7.jpeg",
-      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202025-04-07%20at%206.54.32%20AM-vjtsJo2roYmbkZi60YpPZkP4OvckKZ.jpeg",
+      "/iiitm-3a.png",
+      "/iiitm-3b.png",
+      "/iiitm-3c.png",
     ],
-    category: "Mobile App",
-    link: "https://www.figma.com/proto/9hvv8u8L3BQ9y0rqOXPDD2/Smart-Home-App?node-id=1-3&t=C6eMkkYzUe7r79bG-1",
+    category: "Web Design",
+    link: "https://www.figma.com/design/99ZEaSj9dLxumZVfj8WVVD/IIITM-Gwalior-3?m=auto&t=L9APd648Sj6H9mkJ-1",
   },
   {
     id: 4,
-    title: "E-Commerce Landing Page",
-    description: "Modern e-commerce landing page with clean design",
-    image:
-      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/MacBook%20Pro%2016_%20-%205-Tov46Ln7ZK3ZaFxwFdoWnA06LG5QSi.png",
+    title: "IIITM Gwalior Website 4",
+    description: "Interactive UI/UX design iteration for IIITM Gwalior academic portal",
+    images: [
+      "/iiitm-4a.png",
+      "/iiitm-4b.png",
+      "/iiitm-4c.png",
+    ],
     category: "Web Design",
-    link: "https://www.figma.com/proto/JqbDglBpiA2cLr4KfRC7iD/Untitled?node-id=1-2&starting-point-node-id=1%3A2&t=3Gou4yObjutSfOjn-1",
+    link: "https://www.figma.com/design/KZ6nZBNAOqNWh0Ac5kiEj1/IIITM-Gwalior-4?m=auto&t=L9APd648Sj6H9mkJ-6",
   },
   {
     id: 5,
-    title: "Apple Watch Landing Page",
-    description: "Sleek landing page for Apple Watch with modern aesthetics",
-    image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Landing%20Page-b4VCZWOdYBSrdHijUE9RILCImQu2Ap.png",
+    title: "IIITM Gwalior Website 5",
+    description: "Final iteration of the IIITM Gwalior government institutional website",
+    images: [
+      "/iiitm-5a.png",
+      "/iiitm-5b.png",
+      "/iiitm-5c.png",
+    ],
     category: "Web Design",
-    link: "https://www.figma.com/proto/OJsuEtLj4I9FZ0CXLku3n5/Apple-Watch-Landing-Page?node-id=1-2&starting-point-node-id=1%3A2&t=0kfpc59j9qgtBqbq-1",
+    link: "https://www.figma.com/design/Rm9ITSArf7HcHv8l4jPK8p/IIITM-GWALIOR-5?m=auto&t=L9APd648Sj6H9mkJ-6",
   },
   {
     id: 6,
-    title: "Beauty E-Commerce App",
-    description: "Stylish e-commerce app for beauty products",
+    title: "Admission Adda Website 2",
+    description: "Variant design for the Admission Adda educational platform",
     images: [
-      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202025-04-07%20at%207.02.54%20AM-H1edm3V4fjWRChucXfeUk82VV0Ddog.jpeg",
-      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202025-04-07%20at%207.02.54%20AM%20%281%29-67ZSfo87hXWYBkZxjU43DQJmfyGfD2.jpeg",
+      "/admission_adda-1.png",
+      "/admission_adda-2.png",
+      "/admission_adda-3.png",
     ],
-    category: "Mobile App",
-    link: "https://www.figma.com/proto/E2hG6w8UvIHeYaWmLV51Ig/E-Coomerce-Home-Screen-App-Task?node-id=12-75&starting-point-node-id=5%3A2&t=5gyxquIDDyub8xJN-1",
+    category: "Web Design",
+    link: "https://www.figma.com/design/fgcIeexZLPfVZ2nWpi8Zzp/Admission-Adda?node-id=56-2&t=L9APd648Sj6H9mkJ-1",
   },
   {
     id: 7,
-    title: "Fashion E-Commerce Website",
-    description: "Trendy fashion e-commerce website with seasonal collections",
-    image:
-      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Fashion%20ecommerce.JPG-0bA9NW8bz71BGh8UnlB9ebzMgl147i.jpeg",
-    category: "Web Design",
-    link: "https://www.figma.com/proto/BY32OhBwaiKViMRK9EQpSz/Fashion-e-commerce-website?node-id=1-2&t=15GZnSw9GRMVfLm8-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=36%3A136",
+    title: "Jewellery E-Commerce Application",
+    description: "Elegant online shopping platform specifically designed for fine jewelry",
+    images: [
+      "/jewellery-1.png",
+      "/jewellery-2.png",
+      "/jewellery-3.png",
+    ],
+    category: "Mobile App",
+    link: "https://www.figma.com/design/hkujYdq4l9ndysGa7bnWEN/Jewellery?m=auto&t=L9APd648Sj6H9mkJ-1",
   },
   {
     id: 8,
-    title: "Grocery Delivery App",
-    description: "Simple and effective grocery delivery app interface",
-    image:
-      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Grocery%20App.JPG-tyRQoFTT4cSyXvDXUpIEOqtz6ta4sT.jpeg",
+    title: "Learning Application (Food Application)",
+    description: "Educational platform interface designed for effective online learning",
+    images: [
+      "/food-1.jpg",
+      "/food-2.jpg",
+      "/food-3.jpg",
+    ],
     category: "Mobile App",
-    link: "https://www.figma.com/proto/USjzbAXwD2MYF3zMIF57kW/Grocery-Delivery-App?node-id=1-6321&starting-point-node-id=1%3A6303&t=abHfjqGSdDmTDGw0-1",
+    link: "https://www.figma.com/design/27fW3NlChcHb4ZqgydMOYZ/Food-Application?m=auto&t=L9APd648Sj6H9mkJ-1",
+  },
+  {
+    id: 9,
+    title: "Airlines Part Application",
+    description: "Aviation-focused application interface for seamless travel booking",
+    images: [
+      "/pilot-1.png",
+      "/pilot-2.png",
+      "/pilot-3.png",
+    ],
+    category: "Mobile App",
+    link: "https://www.figma.com/design/v5QH29x9EiS0JVwumjFhQ4/Samantha?m=auto&t=L9APd648Sj6H9mkJ-1",
+  },
+  {
+    id: 10,
+    title: "Railtel Government Website",
+    description: "Official government website design for Railtel with clear navigation",
+    images: [
+      "/rail-1.png",
+      "/rail-2.png",
+      "/rail-3.png",
+    ],
+    category: "Web Design",
+    link: "https://www.figma.com/design/p06Pum2iDE6ApTqlKxxOQQ/Railtel?m=auto&t=L9APd648Sj6H9mkJ-1",
+  },
+  {
+    id: 11,
+    title: "Boat Parts Application",
+    description: "Specialized application interface for maritime hardware and boat parts",
+    images: [
+      "/ship-1.png",
+      "/ship-2.png",
+      "/ship-3.png",
+    ],
+    category: "Mobile App",
+    link: "https://www.figma.com/design/VXcd17Q8J8K7BjFU5S0OF0/Exalto-App-2026?m=auto&t=L9APd648Sj6H9mkJ-1",
   },
 ]
 
 // Image Slider Component
-function ImageSlider({ images }) {
+function ImageSlider({ images }: { images: string[] }) {
   const [currentIndex, setCurrentIndex] = useState(0)
   const [isAutoPlaying, setIsAutoPlaying] = useState(true)
-  const autoPlayRef = useRef(null)
+  const autoPlayRef = useRef<NodeJS.Timeout | null>(null)
 
   useEffect(() => {
     if (isAutoPlaying) {
@@ -179,6 +230,168 @@ function ImageSlider({ images }) {
   )
 }
 
+// Project Card Component (shared between mobile and desktop)
+function ProjectCard({ project, index }: { project: typeof projects[0]; index: number }) {
+  return (
+    <motion.div
+      initial={{ opacity: 0, y: 20 }}
+      whileInView={{ opacity: 1, y: 0 }}
+      viewport={{ once: true }}
+      transition={{ duration: 0.5, delay: index * 0.1 }}
+      className="group"
+    >
+      <div className="gradient-border rounded-2xl overflow-hidden bg-card h-full flex flex-col">
+        <div className="relative overflow-hidden">
+          <ImageSlider images={project.images} />
+          <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/30 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-end p-6">
+            <Link
+              href={project.link}
+              target="_blank"
+              className="text-white flex items-center gap-2 opacity-0 group-hover:opacity-100 transition-opacity duration-300 delay-100"
+            >
+              View Project <ExternalLink className="h-4 w-4" />
+            </Link>
+          </div>
+        </div>
+        <div className="p-6 flex flex-col flex-grow">
+          <span className="text-xs font-medium text-primary/80 bg-primary/10 px-3 py-1 rounded-full self-start">
+            {project.category}
+          </span>
+          <h3 className="text-xl font-bold mt-3 mb-2">{project.title}</h3>
+          <p className="text-foreground/70 text-sm mb-4 flex-grow">{project.description}</p>
+          <Link
+            href={project.link}
+            target="_blank"
+            className="inline-flex items-center text-sm font-medium text-primary hover:text-primary/80 transition-colors mt-auto"
+          >
+            Explore Details <ArrowRight className="h-4 w-4 ml-1" />
+          </Link>
+        </div>
+      </div>
+    </motion.div>
+  )
+}
+
+// Mobile Carousel Component
+function MobileCarousel({ projects: items }: { projects: typeof projects }) {
+  const [currentIndex, setCurrentIndex] = useState(0)
+  const [showAll, setShowAll] = useState(false)
+  const touchStartX = useRef(0)
+  const touchEndX = useRef(0)
+
+  const handlePrev = () => {
+    setCurrentIndex((prev) => (prev === 0 ? items.length - 1 : prev - 1))
+  }
+
+  const handleNext = () => {
+    setCurrentIndex((prev) => (prev + 1) % items.length)
+  }
+
+  const handleTouchStart = (e: React.TouchEvent) => {
+    touchStartX.current = e.targetTouches[0].clientX
+  }
+
+  const handleTouchMove = (e: React.TouchEvent) => {
+    touchEndX.current = e.targetTouches[0].clientX
+  }
+
+  const handleTouchEnd = () => {
+    const diff = touchStartX.current - touchEndX.current
+    if (Math.abs(diff) > 50) {
+      if (diff > 0) handleNext()
+      else handlePrev()
+    }
+  }
+
+  if (showAll) {
+    return (
+      <div>
+        <div className="grid grid-cols-1 gap-4">
+          {items.map((project, index) => (
+            <ProjectCard key={project.id} project={project} index={index} />
+          ))}
+        </div>
+        <div className="text-center mt-8">
+          <button
+            onClick={() => setShowAll(false)}
+            className="inline-flex items-center gap-2 px-6 py-3 rounded-full bg-primary text-white font-medium hover:bg-primary/90 transition-colors"
+          >
+            <ChevronLeft className="h-4 w-4" /> Back to Slider
+          </button>
+        </div>
+      </div>
+    )
+  }
+
+  return (
+    <div>
+      <div
+        className="relative overflow-hidden"
+        onTouchStart={handleTouchStart}
+        onTouchMove={handleTouchMove}
+        onTouchEnd={handleTouchEnd}
+      >
+        <AnimatePresence mode="wait">
+          <motion.div
+            key={currentIndex}
+            initial={{ opacity: 0, x: 80 }}
+            animate={{ opacity: 1, x: 0 }}
+            exit={{ opacity: 0, x: -80 }}
+            transition={{ duration: 0.35, ease: "easeInOut" }}
+          >
+            <ProjectCard project={items[currentIndex]} index={0} />
+          </motion.div>
+        </AnimatePresence>
+
+        {/* Navigation arrows */}
+        <div className="flex items-center justify-between mt-4">
+          <button
+            onClick={handlePrev}
+            className="w-10 h-10 rounded-full glass flex items-center justify-center hover:bg-primary/20 transition-colors"
+            aria-label="Previous project"
+          >
+            <ChevronLeft className="h-5 w-5" />
+          </button>
+
+          {/* Dot indicators */}
+          <div className="flex gap-1.5 items-center">
+            {items.map((_, idx) => (
+              <button
+                key={idx}
+                onClick={() => setCurrentIndex(idx)}
+                className={`rounded-full transition-all duration-300 ${
+                  idx === currentIndex
+                    ? "w-6 h-2 bg-primary"
+                    : "w-2 h-2 bg-foreground/30 hover:bg-foreground/50"
+                }`}
+                aria-label={`Go to project ${idx + 1}`}
+              />
+            ))}
+          </div>
+
+          <button
+            onClick={handleNext}
+            className="w-10 h-10 rounded-full glass flex items-center justify-center hover:bg-primary/20 transition-colors"
+            aria-label="Next project"
+          >
+            <ChevronRight className="h-5 w-5" />
+          </button>
+        </div>
+      </div>
+
+      {/* See All Projects button */}
+      <div className="text-center mt-8">
+        <button
+          onClick={() => setShowAll(true)}
+          className="inline-flex items-center gap-2 px-6 py-3 rounded-full bg-primary text-white font-medium hover:bg-primary/90 transition-colors"
+        >
+          See All Projects <ArrowRight className="h-4 w-4" />
+        </button>
+      </div>
+    </div>
+  )
+}
+
 export default function Projects() {
   const [activeCategory, setActiveCategory] = useState("All")
   const containerRef = useRef(null)
@@ -234,56 +447,15 @@ export default function Projects() {
           </div>
         </div>
 
-        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 md:gap-6">
+        {/* Mobile: Slide carousel with See All */}
+        <div className="block sm:hidden">
+          <MobileCarousel projects={filteredProjects} />
+        </div>
+
+        {/* Desktop: Grid layout */}
+        <div className="hidden sm:grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 md:gap-6">
           {filteredProjects.map((project, index) => (
-            <motion.div
-              key={project.id}
-              initial={{ opacity: 0, y: 20 }}
-              whileInView={{ opacity: 1, y: 0 }}
-              viewport={{ once: true }}
-              transition={{ duration: 0.5, delay: index * 0.1 }}
-              className="group"
-            >
-              <div className="gradient-border rounded-2xl overflow-hidden bg-card h-full flex flex-col">
-                <div className="relative overflow-hidden">
-                  {project.images ? (
-                    <ImageSlider images={project.images} />
-                  ) : (
-                    <div className="relative aspect-[4/3] overflow-hidden">
-                      <Image
-                        src={project.image || "/placeholder.svg"}
-                        alt={project.title}
-                        fill
-                        className="object-cover transition-transform duration-500 group-hover:scale-110"
-                      />
-                    </div>
-                  )}
-                  <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/30 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-end p-6">
-                    <Link
-                      href={project.link}
-                      target="_blank"
-                      className="text-white flex items-center gap-2 opacity-0 group-hover:opacity-100 transition-opacity duration-300 delay-100"
-                    >
-                      View Project <ExternalLink className="h-4 w-4" />
-                    </Link>
-                  </div>
-                </div>
-                <div className="p-6 flex flex-col flex-grow">
-                  <span className="text-xs font-medium text-primary/80 bg-primary/10 px-3 py-1 rounded-full self-start">
-                    {project.category}
-                  </span>
-                  <h3 className="text-xl font-bold mt-3 mb-2">{project.title}</h3>
-                  <p className="text-foreground/70 text-sm mb-4 flex-grow">{project.description}</p>
-                  <Link
-                    href={project.link}
-                    target="_blank"
-                    className="inline-flex items-center text-sm font-medium text-primary hover:text-primary/80 transition-colors mt-auto"
-                  >
-                    Explore Details <ArrowRight className="h-4 w-4 ml-1" />
-                  </Link>
-                </div>
-              </div>
-            </motion.div>
+            <ProjectCard key={project.id} project={project} index={index} />
           ))}
         </div>
       </motion.div>
