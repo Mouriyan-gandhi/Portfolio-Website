@@ -147,7 +147,7 @@ export default function Hero() {
                     alt="Nishtha Deep - UI/UX Designer"
                     width={500}
                     height={500}
-                    className="object-cover w-full h-full"
+                    className="object-cover object-top w-full h-full"
                     priority
                   />
                 </div>
