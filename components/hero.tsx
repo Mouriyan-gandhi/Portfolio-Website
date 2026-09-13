@@ -143,11 +143,11 @@ export default function Hero() {
               <div className="absolute inset-0 flex items-center justify-center">
                 <div className="w-[90%] h-[90%] rounded-full overflow-hidden border-4 border-white/30 shadow-xl">
                   <Image
-                    src="/images/herosection-img1.jpeg"
+                    src="/images/herosection-img.jpeg"
                     alt="Nishtha Deep - UI/UX Designer"
                     width={500}
                     height={500}
-                    className="object-cover object-top w-full h-full"
+                    className="object-cover w-full h-full"
                     priority
                   />
                 </div>
